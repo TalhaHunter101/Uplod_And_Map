@@ -3,7 +3,7 @@ import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import './AudioMap.css';
 import AudioPlayer from 'react-h5-audio-player';
 import 'react-h5-audio-player/lib/styles.css';
-import mapcordinates from "./data/jasondata_old.json";
+import mapcordinates from "./data/jasondata.json";
 //import 'leaflet/dist/leaflet.css';
 //import { render } from '@testing-library/react';
 
