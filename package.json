@@ -36,5 +36,17 @@
       "react-app/jest"
     ]
   },
-  "browserslist": []
+  "browserslist": [],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TalhaHunter101/Uplod_And_Map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TalhaHunter101/Uplod_And_Map/issues"
+  },
+  "homepage": "https://github.com/TalhaHunter101/Uplod_And_Map#readme"
 }
