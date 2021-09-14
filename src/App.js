@@ -1,9 +1,7 @@
 
 import './App.css';
 import {app} from './base';
-import {Link,Route} from 'react-router-dom';
 import IconButton from '@material-ui/core/IconButton';
-import Button from '@material-ui/core/Button';
 import PhotoCamera from '@material-ui/icons/PhotoCamera';
 import background from "./img/intro-bg.jpg";
 function App() {
